@@ -30,7 +30,9 @@ Streamlit is a powerful tool for building interactive web applications with mini
 
 ### Interface Preview
 ![image](https://github.com/barath-sk17/sigma_hackathon/assets/127032804/7e2ad4df-b5e8-4467-b71b-6f0478db32b0)
+
 ![image](https://github.com/barath-sk17/sigma_hackathon/assets/127032804/b8bfa699-7701-4cf8-92f5-ea8d3b0e3883)
+
 ![image](https://github.com/barath-sk17/sigma_hackathon/assets/127032804/a068a683-ddc8-4835-9582-24ae4ce877f8)
 
 
