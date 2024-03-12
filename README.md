@@ -6,7 +6,7 @@ This project aims to analyze portfolio data using Streamlit, a popular Python li
 
 Investors often seek tools to analyze their portfolio performance and make informed decisions. This project addresses this need by providing a user-friendly interface to analyze portfolio data and understand market trends.
 
-## Code Flow
+## Code Flow for analysis.py
 
 1. **Data Preparation**: The dataset is read and processed to extract relevant information such as closing prices.
 
@@ -17,6 +17,19 @@ Investors often seek tools to analyze their portfolio performance and make infor
 4. **Transition Distribution**: The distribution of state transitions (e.g., from Bull to Flat, Flat to Bear) is computed to understand market behavior.
 
 5. **Streamlit Integration**: The results are displayed using Streamlit, providing an interactive and user-friendly interface for portfolio analysis.
+
+## Code Flow for plot_analysis.py
+
+1. **Data**: The dataset contains historical time series data.
+
+2. **Auto ARIMA Model**: The auto_arima function from the pmdarima library is used to automatically select the optimal ARIMA parameters for the time series forecasting.
+
+3. **Training and Testing**: The dataset is split into training and testing sets. The last 50 data points are used for testing, and the remaining data is used for training.
+
+4. **Forecasting**: The Auto ARIMA model is trained on the training data, and then used to forecast future values for the test period.
+
+5. **Visualization**: The forecasted values are plotted along with the actual test data to visualize the performance of the model.
+
 
 ## Use of Streamlit
 
