@@ -18,6 +18,14 @@ Investors often seek tools to analyze their portfolio performance and make infor
 
 5. **Streamlit Integration**: The results are displayed using Streamlit, providing an interactive and user-friendly interface for portfolio analysis.
 
+## Interface Preview
+
+![image](https://github.com/barath-sk17/sigma_hackathon/assets/127032804/f8d71a1b-bd34-4da9-a5b2-2bf36333eb37)
+
+
+![image](https://github.com/barath-sk17/sigma_hackathon/assets/127032804/cda842b2-0302-4d1d-bf2c-36ea8cdfcd04)
+
+
 ## Code Flow for plot_analysis.py
 
 1. **Data**: The dataset contains historical time series data.
@@ -30,6 +38,10 @@ Investors often seek tools to analyze their portfolio performance and make infor
 
 5. **Visualization**: The forecasted values are plotted along with the actual test data to visualize the performance of the model.
 
+## Interface Preview
+
+![Figure_1](https://github.com/barath-sk17/sigma_hackathon/assets/127032804/b512e3a1-067a-4587-ab56-61849f30348a)
+
 
 ## Use of Streamlit
 
@@ -39,14 +51,6 @@ Streamlit is a powerful tool for building interactive web applications with mini
 - Identify optimal buy indices
 - Explore transition distribution of market states
 
-## Images
-
-### Interface Preview
-
-![image](https://github.com/barath-sk17/sigma_hackathon/assets/127032804/f8d71a1b-bd34-4da9-a5b2-2bf36333eb37)
-
-
-![image](https://github.com/barath-sk17/sigma_hackathon/assets/127032804/cda842b2-0302-4d1d-bf2c-36ea8cdfcd04)
 
 
 
